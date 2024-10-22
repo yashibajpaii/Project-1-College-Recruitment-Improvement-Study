@@ -1,4 +1,4 @@
-# Project 1 College Recruitment Improvement Study
+# Project 1: College Recruitment Improvement Study
 This project seeks to perform an exploratory data analysis of the CCM Computing Courses Entry Surveys, providing insights that can help the Information Technologies department increase enrollment in computing classes. This is done by studying various questions related to the contents and results of the survey, cleaning the data on the survey results for more efficiency, and conducting further analysis with Jupyter Notebooks using Pandas and matplotlib.pyplot.
 
 Files Included:
